@@ -9,7 +9,7 @@
     https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
   </a>
   </br>
-  <a href="ivaldirbatalha.dev">
+  <a href="http://www.ivaldirbatalha.dev/">
     https://img.shields.io/badge/Portfolio-ivaldirbatalha.dev-lightgrey
   </a>
   </br>
