@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 </br>
 
-- :telescope: I’m currently working on some personal projects, using the stack i'm learning!
-- :zap: In my free time, i build personal projects to learn new technologies and stacks.
+- :telescope: I’m currently working on some personal projects, using the stack i'm learning!</br>
+- :zap: In my free time, i build personal projects to learn new technologies and stacks.</br>
 ⚡ Fun fact: Me and some collegues in high school wanted to create a game similar to Call of Duty, i discovered Unity and the rest is history ...
 </br>
 
