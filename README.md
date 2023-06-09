@@ -12,7 +12,6 @@
   <a href="https://www.youtube.com/@ivaldirbatalha5436">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  </br>
   <img src="https://komarev.com/ghpvc/?username=ivaldir301&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -24,10 +23,11 @@
 
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
 
   ---
 
-  ### 🧗‍♀️ About Me :
+  ### 🧗‍♀️ About Me:
   
   I am a Software Engineer based in Cape Verde, pashionate about backend web development and systems programming. 
 
@@ -54,11 +54,10 @@
    
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivaldir301&theme=react&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaldir301&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
  
