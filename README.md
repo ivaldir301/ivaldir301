@@ -12,6 +12,7 @@
   <a href="https://www.youtube.com/@ivaldirbatalha5436">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  </br>
   <img src="https://komarev.com/ghpvc/?username=ivaldir301&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -20,6 +21,8 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+</div>
+
 
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -34,7 +37,7 @@
   :telescope: I’m currently working on some personal projects, using the stack i'm learning!</br>
   :zap: In my free time, i build personal projects to learn new technologies and stacks.</br>
    
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: Languages and Tools:
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
