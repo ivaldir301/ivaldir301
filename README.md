@@ -35,12 +35,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-**ivaldir301/ivaldir301** I am a Software Engineer based in Cape Verde, pashionate about backend web development and systems programming.  repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer based in Cape Verde, pashionate about backend web development and systems programming. 
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on some personal projects!</br>
-🌱 I’m currently learning python, fastapi, django, postgrelsql, linux, docker, github actions.</br>
+</br>
+
+- :telescope: I’m currently working on some personal projects, using the stack i'm learning!
+- :zap: In my free time, i build personal projects to learn new technologies and stacks.
 ⚡ Fun fact: Me and some collegues in high school wanted to create a game similar to Call of Duty, i discovered Unity and the rest is history ...
 </br>
 
