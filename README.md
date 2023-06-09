@@ -54,10 +54,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
+
 Other skills:
-  - Unit testing, integration testing
-  - Clean coding best practices, SOLID principles(currently learning and practicing)
-  - Continuous Integration / Continuous Delivery(currently learning)
+  Unit testing, integration testing
+  Clean coding best practices, SOLID principles(currently learning and practicing)
+  Continuous Integration / Continuous Delivery(currently learning)
   
 ---
 
