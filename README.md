@@ -35,7 +35,7 @@
 
   ---
 
-  ### :woman_technologist: About Me :
+  ### 🧗‍♀️_technologist: About Me :
 
   I am a Software Engineer based in Cape Verde, pashionate about backend web development and systems programming. 
 
@@ -43,7 +43,7 @@
 
   </br>
 
-  - :telescope: I’m currently working on some personal projects, using the stack i'm learning!</br>
-  - :zap: In my free time, i build personal projects to learn new technologies and stacks.</br>
+   :telescope: I’m currently working on some personal projects, using the stack i'm learning!</br>
+   :zap: In my free time, i build personal projects to learn new technologies and stacks.</br>
   </div>
   
