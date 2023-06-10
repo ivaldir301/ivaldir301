@@ -34,7 +34,7 @@
   I am a Software Engineer based in Cape Verde, pashionate about backend web development and systems programming. 
 
   :telescope: I’m currently working on some personal projects, using the stack i'm learning!</br>
-  :zap: In my free time, i build personal projects to learn new technologies and stacks.</br>
+  :zap: Feel free to reach out for some awesome collab or opportunities.</br>
    
   ### :hammer_and_wrench: Languages and Tools:
   <div align="center">
