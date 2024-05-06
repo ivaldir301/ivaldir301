@@ -1,13 +1,4 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ivaldir-batalha-a67952185/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="http://www.ivaldirbatalha.dev/">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Portfolio-             ivaldirbatalha.dev-lightgrey)"/>
-  </a>
-  </br>
-  <img src="https://komarev.com/ghpvc/?username=ivaldir301&style=flat-square&color=blue" alt=""/>
-</div>
+
 
   <div align="center">
 
