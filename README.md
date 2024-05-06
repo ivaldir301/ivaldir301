@@ -4,7 +4,7 @@
 
   ### 🧗‍♀️ About Me:
   
-  I am a Software Engineer based in Cape Verde, pashionate about backend web development and systems programming. 
+  I am a Software Engineer based in Cape Verde, pashionate about computers and problem solving. 
    
  </div>
 
